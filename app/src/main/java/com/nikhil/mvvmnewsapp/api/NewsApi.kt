@@ -1,6 +1,6 @@
 package com.nikhil.mvvmnewsapp.api
 
-import com.nikhil.mvvmnewsapp.NewsResponse
+import com.nikhil.mvvmnewsapp.models.NewsResponse
 import com.nikhil.mvvmnewsapp.util.Constants.Companion.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET
